@@ -1,0 +1,6 @@
+framework module Pods_GitHubUserFetcher {
+  umbrella header "Pods-GitHubUserFetcher-umbrella.h"
+
+  export *
+  module * { export * }
+}
